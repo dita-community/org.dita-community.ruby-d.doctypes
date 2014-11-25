@@ -7,6 +7,9 @@
   -->
 <plugin id="org.dita-community.ruby-d.doctypes">
 
+  <feature extension="package.support.name" value="Eliot Kimber"/>
+  <feature extension="package.support.email" value="ekimber@contrext.com"/>  
+
   <!-- Doctypes integration: -->
   <feature extension="dita.specialization.catalog.relative" 
     value="catalog.xml" 
